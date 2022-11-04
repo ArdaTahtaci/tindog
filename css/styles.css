@@ -1,0 +1,227 @@
+body {
+    font-family: 'Montserrat, sans-serif';
+}
+
+h1 {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 5rem;
+    line-height: 1.5;
+    color: white;
+    font-weight: 900;
+
+}
+
+.logo {
+    font-family: 'Ubuntu, snas-serif';
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.navbar {
+    padding-bottom: 0 0 4rem;
+}
+
+.container-fluid {
+    padding: 3% 10% 3% 10%;
+}
+
+#title {
+    background-color: #ff4c68;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat-light';
+
+}
+
+.btn {
+    margin: 5% 3% 5% 0;
+}
+
+.logo {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+.title-img {
+    width: 50%;
+    transform: rotate(25deg);
+    margin-left: 20%;
+
+}
+
+#features {
+    text-align: center;
+    padding: 3%;
+
+
+}
+
+.fHeading {
+    font-family: 'Montserrat-Bold', sans-serif;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+.ficon {
+    color: #ef8172;
+}
+
+.ficon:hover {
+    color: #ff4c68;
+}
+
+p {
+    color: #8f8f8f;
+
+}
+
+#testimonials {
+
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+
+
+}
+
+.carousel-item {
+    padding: 7%;
+}
+
+em {
+    font-size: larger;
+    font-weight: 500;
+    padding-left: 1%;
+}
+
+.theading {
+    font-size: 2rem;
+    font-family: 'Monserrat-Bold', sans-serif;
+    line-height: 1.5;
+    font-weight: 900;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.testimonial-image {
+    width: 18%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.press-logo {
+    width: 12%;
+    margin: 20px 20px 50px;
+}
+
+.card {
+    padding: 3% 4% 3% 4%;
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-weight: 900;
+}
+
+h3 {
+    font-size: 2.5rem;
+}
+
+
+#pricing {
+    padding: 3% 4% 3% 4%;
+    text-align: center;
+}
+
+.ptag {
+    font-size: 3rem;
+    font-family: 'Montserrat-Bold', sans-serif;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+.pHeading {
+    font-size: 3rem;
+    font-weight: 900;
+    margin-left: 20%;
+    margin-right: 20%;
+
+
+}
+
+.pP {
+    font-size: 1.5rem;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+@media (max-width: 1028px) {
+    .title-img {
+        transform: rotate(0deg);
+        padding: 0%;
+        margin-left: 0%;
+    }
+
+    #title {
+        text-align: center;
+    }
+}
+
+#cta {
+    text-align: center;
+    font-size: 3rem;
+    background-color: #ff4c68;
+    font-weight: 900;
+    margin-bottom: 3%;
+
+}
+
+#footer {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 0%;
+}
+
+.fcopy {
+    margin: 0%;
+    padding: 0%;
+}
+
+.ctah3 {
+    color: #fff;
+    font-weight: 900;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 3%;
+
+}
+
+.ctabtn {
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.fic {
+    padding-left: 1%;
+    padding-right: 1%;
+    color: black;
+    margin-bottom: 2%;
+
+}
+
+.frow {
+    margin-left: 40%;
+    margin-right: 40%;
+}
